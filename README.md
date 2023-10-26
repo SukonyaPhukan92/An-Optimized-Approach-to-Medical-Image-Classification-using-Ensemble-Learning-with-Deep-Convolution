@@ -16,7 +16,3 @@ Input medical image data are available in the given google drive link provided b
 *  Hand CT
 *  Head CT
       
-The trained Vision Transfer model can be downloaded from
-
-     https://drive.google.com/file/d/1zAUWw1E_saK3Bns8seKz4h6tOXP8Gk5f/view?usp=sharing
- 
